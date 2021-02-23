@@ -11,5 +11,3 @@
 - ipv4: 192.168.33.1
 - username: root
 - password: fa
-
-## 触发编译
